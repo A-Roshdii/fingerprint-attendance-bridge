@@ -1,0 +1,11 @@
+# secrets and company data - never commit these
+config.ini
+mapping.csv
+*.db
+*.db-shm
+*.db-wal
+*.log
+dry_run*.csv
+attendance_*.xlsx
+demo_data/
+__pycache__/
